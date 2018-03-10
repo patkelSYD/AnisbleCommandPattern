@@ -1,0 +1,15 @@
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\bin\Debug\Receiver-TextEditor.exe.config
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\bin\Debug\Receiver-TextEditor.exe
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\bin\Debug\Receiver-TextEditor.pdb
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\Command-Pattern-Example.csprojResolveAssemblyReference.cache
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\App.g.cs
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\Receiver-TextEditor_MarkupCompile.cache
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\Receiver-TextEditor_MarkupCompile.lref
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\MainWindow.baml
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\Receiver-TextEditor.g.resources
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\Receiver_TextEditor.Properties.Resources.resources
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\Command-Pattern-Example.csproj.GenerateResource.Cache
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\Command-Pattern-Example.csproj.CoreCompileInputs.cache
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\Receiver-TextEditor.exe
+C:\Users\kelangovan2\Documents\Visual Studio 2017\Projects\AnisbleCommandPattern\Receiver-TextEditor\obj\Debug\Receiver-TextEditor.pdb
